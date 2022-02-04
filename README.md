@@ -3,7 +3,7 @@
 Im an Android developer at Picsart. I'm also a contributor and creator of
 some great open-source projects. In 2015 I've created the A2B Transport app, which is a public transport companion app and reached 50000+ downloads.
 
-Find more in https://reobertlevonyan.com
+Find more in https://robertlevonyan.com
 
 ![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertlevonyan&show_icons=true&bg_color=1a1a1a&title_color=f1f1f1&text_color=f1f1f1&border_color=e7a942&icon_color=e7a942&border_radius=16)
 
