@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im an Android developer at Picsart. I'm also a contributor and creator of
+Im an Android Engineer based in Yerevan, Armenia. I'm also a contributor and creator of
 some great open-source projects. In 2015 I've created the A2B Transport app, which is a public transport companion app and reached 50000+ downloads.
 
 Find more in https://robertlevonyan.com
