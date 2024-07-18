@@ -6,6 +6,8 @@ Two of my personal apps: Testy and A2B Transport have 500K+ and 100k+ downloads 
 
 Find more in https://robertlevonyan.com
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=robertlevonyan&theme=dark&hide_border=true&border_radius=15&exclude_days=Sun%2CSat&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
 <!--![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertlevonyan&show_icons=true&bg_color=1a1a1a&title_color=f1f1f1&text_color=f1f1f1&border_color=e7a942&icon_color=e7a942&border_radius=16)
 -->
 <!--
