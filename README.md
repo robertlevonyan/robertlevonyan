@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Im an Android Engineer based in Yerevan, Armenia. I'm also a contributor and creator of
-some great open-source projects. In 2015 I've created the A2B Transport app, which is a public transport companion app and reached 50000+ downloads.
+some great open-source projects. 
+Two of my personal apps: Testy and A2B Transport have 500K+ and 100k+ downloads in Google Play store correspondingly.
 
 Find more in https://robertlevonyan.com
 
