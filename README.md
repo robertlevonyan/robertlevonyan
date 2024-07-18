@@ -6,8 +6,8 @@ Two of my personal apps: Testy and A2B Transport have 500K+ and 100k+ downloads 
 
 Find more in https://robertlevonyan.com
 
-![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertlevonyan&show_icons=true&bg_color=1a1a1a&title_color=f1f1f1&text_color=f1f1f1&border_color=e7a942&icon_color=e7a942&border_radius=16)
-
+<!--![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertlevonyan&show_icons=true&bg_color=1a1a1a&title_color=f1f1f1&text_color=f1f1f1&border_color=e7a942&icon_color=e7a942&border_radius=16)
+-->
 <!--
 **robertlevonyan/robertlevonyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
