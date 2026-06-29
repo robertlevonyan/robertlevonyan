@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im an Android Engineer based in Yerevan, Armenia. I'm also a contributor and creator of
+Im an Android Engineer with 10+ years of experience based in Yerevan, Armenia. I'm also a contributor and creator of
 some great open-source projects. 
 Two of my personal apps: Testy and A2B Transport have 1M+ and 100k+ downloads in Google Play store correspondingly.
 
