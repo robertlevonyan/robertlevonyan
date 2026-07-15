@@ -4,7 +4,7 @@ Im an Android Engineer with 10+ years of experience based in Yerevan, Armenia. I
 some great open-source projects. 
 Two of my personal apps: Testy and A2B Transport have 1M+ and 100k+ downloads in Google Play store correspondingly.
 
-Find more in https://robertlevonyan.com
+Find more in [https://robertlevonyan.com](https://robertlevonyan.github.io/)
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=robertlevonyan&theme=dark&hide_border=true&border_radius=15&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
