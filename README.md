@@ -1,26 +1,21 @@
-### Hi there 👋
+![Android Developer Banner](./banner.jpeg)
 
-Im an Android Engineer with 10+ years of experience based in Yerevan, Armenia. I'm also a contributor and creator of
-some great open-source projects. 
-Two of my personal apps: Testy and A2B Transport have 1M+ and 100k+ downloads in Google Play store correspondingly.
+# Hey, I'm Robert 👋
 
-Find more in [here](https://robertlevonyan.github.io/)
+**Senior Android Developer with 10+ years of experience**, building mobile experiences with Kotlin, Jetpack Compose, and Kotlin Multiplatform.
 
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=robertlevonyan&theme=dark&hide_border=true&border_radius=15&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+I enjoy solving complex engineering problems, designing clean and modular architectures, contributing to open source, and exploring how AI can make development better.
 
-<!--![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertlevonyan&show_icons=true&bg_color=1a1a1a&title_color=f1f1f1&text_color=f1f1f1&border_color=e7a942&icon_color=e7a942&border_radius=16)
--->
-<!--
-**robertlevonyan/robertlevonyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Focus
+Kotlin · Android · Jetpack Compose · KMP · Clean Architecture · AI-assisted development
 
-Here are some ideas to get you started:
+### ✍️ Writing
+- [Material 3 Expressive Button Toggles](https://proandroiddev.com/material-3-expressive-button-toggles-c670f8df6053)
+- [Some SVG magic in KMP](https://proandroiddev.com/bring-to-life-your-svgs-in-the-multiplatform-project-0d298c15c22a)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Find me
+[GitHub](https://github.com/robertlevonyan) · [LinkedIn](https://www.linkedin.com/in/robertlevonyan/)
+
+---
+
+*Build things. Solve problems. Share what you learn.* 🚀
