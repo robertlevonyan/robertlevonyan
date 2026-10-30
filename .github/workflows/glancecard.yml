@@ -1,0 +1,26 @@
+# .github/workflows/glancecard.yml
+name: glancecard
+
+on:
+  schedule:
+    - cron: "30 5 * * *" # every day
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+      - uses: gfazioli/glancecard@v0.6.0
+        with:
+          profile: your-login
+          repos: |
+            your-login/your-repo
+            your-login/another-repo
+          theme: hyperspace, hyperspace-light
+          calendar: grid
+          stars-chart: smooth
