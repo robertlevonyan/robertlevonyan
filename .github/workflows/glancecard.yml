@@ -17,7 +17,7 @@ jobs:
       - uses: actions/checkout@v7
       - uses: gfazioli/glancecard@v0.6.0
         with:
-          profile: your-login
+          profile: robertlevonyan
           repos: |
             your-login/your-repo
             your-login/another-repo
