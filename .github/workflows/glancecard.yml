@@ -19,8 +19,16 @@ jobs:
         with:
           profile: robertlevonyan
           repos: |
-            your-login/your-repo
-            your-login/another-repo
+            robertlevonyan/no-internet-dialog-kt
+            robertlevonyan/ai-limits
+            robertlevonyan/permissions-flow
+            robertlevonyan/media-picker
+            robertlevonyan/camerax-demo
+            robertlevonyan/countries-kmp
+            robertlevonyan/composable-news
+            robertlevonyan/lamp-demo
+            robertlevonyan/drivingrules
+            robertlevonyan/rocket-launch
           theme: hyperspace, hyperspace-light
           calendar: grid
           stars-chart: smooth
