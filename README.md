@@ -26,6 +26,6 @@ Kotlin · Android · Jetpack Compose · KMP · Clean Architecture · AI-assisted
 *Build things. Solve problems. Share what you learn.* 🚀
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="glancecard/your-repo-hyperspace.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="glancecard/profile-dark.svg">
   <img src="glancecard/your-repo-hyperspace-light.svg" width="880" alt="your-repo at a glance">
 </picture>
